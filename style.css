@@ -1,0 +1,11 @@
+h1{
+    padding: 10px;
+    background: red;
+    color: white;
+    font-family: cursive;
+    border-radius: 5px;
+}
+h1::selection{
+    background: orange;
+    color: blue;
+}
